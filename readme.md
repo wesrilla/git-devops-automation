@@ -10,6 +10,10 @@ Bem-Vindo ao repositório!
 
 ### Estrutura do projeto
 
+### Adicionando conteúdo Remotamente
+
+## Como Trabalhar com o Git
+
 
 
 
